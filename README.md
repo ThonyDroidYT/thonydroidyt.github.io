@@ -1,4 +1,4 @@
-*# admplus.github.io
+//# admplus.github.io
 
 ## MIS PROYECTOS 
 
